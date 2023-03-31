@@ -1,0 +1,39 @@
+Hi! We're international exchange students studying English at Cambridge University. Our most recent homework was to complete a few famous quotes by famous people. We were working on a computer that we share with a few other students. Their names are JOHN, SAM, and TATIANA. When we woke up in the morning, we realised all our work that has been done recently was messed up. Somehow every word of the quotes got into a separate text file randomly. The work has to be turned in till 12am. Would you mind helping us fixing this unusual problem with CLI commands?
+
+I guess we have to start from scratch again. 
+
+Our working folder is gone and all the files got everywhere. We should probably get a new one.
+
+
+Now we need a new piece of paper to write down our lost quote. 
+
+
+So, where should we start? 
+Let's inspect some other folders craeated by our roommates. 
+
+
+1. JOHN folder contains many folders named by different famous surnames. He's been doing well in his studies and keeping everything organised. But one of the folders named Nietsnie looks weird.
+
+ 
+You see a file called funny.txt.
+
+
+(the picture)
+ 
+Also, in JOHN folder there is a seperate file named INTELLIGENCE in uppercase which probably refers to his academic achievements. 
+ 
+
+It's just a list of his grades and certificates. What a smart fella!
+
+2. SAM folder seems to be empty. He doesn't do his homework ever. Or does he? Maybe he's hiding something in here?
+ 
+
+There is a file called CREATIVITY_IS.
+
+
+There's a poem dedicated to Tatiana. NOW it makes a lot of sence as to why he was hiding this file.
+
+3. TATIANA folder there is a file named Goals.txt. The goals are in this file. 
+
+There seems to be no more folders to explore. Now, it's time to put all the clues together and write down the quote on the paper. 
+
